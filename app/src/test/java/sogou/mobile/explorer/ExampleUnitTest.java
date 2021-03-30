@@ -1,4 +1,4 @@
-package com.github.codeskyblue.oppoapkinstaller;
+package sogou.mobile.explorer;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.github.codeskyblue.oppoapkinstaller;
+package sogou.mobile.explorer;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.content.FileProvider;
@@ -13,7 +13,7 @@ import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import org.w3c.dom.Text;
+import sogou.mobile.explorer.R;
 
 import java.io.File;
 
